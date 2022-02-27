@@ -1,0 +1,13 @@
+br\cafemodelo\testes\Teste.class
+br\cafemodelo\model\Produto.class
+br\cafemodelo\dao\DAOGenerico.class
+br\cafemodelo\model\Pedido.class
+br\cafemodelo\dao\MesaDAO.class
+br\cafemodelo\model\ProdutoUnidade.class
+br\cafemodelo\model\Bebida.class
+br\cafemodelo\model\UnidadeMedida.class
+br\cafemodelo\model\Bolo.class
+br\cafemodelo\dao\UnidadeMedidaDAO.class
+br\cafemodelo\testes\TesteDAO.class
+br\cafemodelo\model\ItensPedido.class
+br\cafemodelo\model\Mesa.class
